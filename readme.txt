@@ -1,2 +1,2 @@
-git is program;
-git is software;
+git is version control system;
+git is free software;
