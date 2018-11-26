@@ -1,2 +1,2 @@
-Gif is good
-Git is great
+git is program;
+git is software;
